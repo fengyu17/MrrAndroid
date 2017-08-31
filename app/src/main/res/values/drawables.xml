@@ -1,0 +1,8 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_video" type="drawable">@mipmap/ic_video_library_white</item>
+    <item name="ic_menu_books" type="drawable">@mipmap/ic_library_books_white</item>
+    <item name="ic_menu_broadcast" type="drawable">@mipmap/ic_radio_white</item>
+    <item name="ic_menu_group" type="drawable">@mipmap/ic_group_white</item>
+    <item name="ic_menu_share" type="drawable">@android:drawable/ic_menu_share</item>
+    <item name="ic_menu_send" type="drawable">@android:drawable/ic_menu_send</item>
+</resources>
