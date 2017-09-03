@@ -27,5 +27,5 @@ public class MovieActivity extends BaseActivity {
 
     }
 
-    // TODO: 2017/9/3 fix mode 2
+    // FIXME: 2017/9/3 on dev fix 
 }
