@@ -27,5 +27,5 @@ public class MovieActivity extends BaseActivity {
 
     }
 
-    // TODO: 2017/9/3 fix mode 2
+    // TODO: 2017/9/3 delete fun 3
 }
