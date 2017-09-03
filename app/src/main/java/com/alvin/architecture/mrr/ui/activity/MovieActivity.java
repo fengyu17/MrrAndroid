@@ -26,6 +26,4 @@ public class MovieActivity extends BaseActivity {
     protected void loadData() {
 
     }
-
-    // FIXME: 2017/9/3 on dev fix ii
 }
